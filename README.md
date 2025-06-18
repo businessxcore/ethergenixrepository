@@ -39,7 +39,7 @@ We provide automation solutions for the following industries:
 - Mobile App Companies/Startups
 - Digital Marketing Agencies
 
-If you'd like to check any previous work of our portfolio, just go up into the repository and select the JSON file you want to view. It can be downloaded as well, copied.
+If you'd like to check any previous work of our portfolio, just go to the releases section where you can find the JSON files and thier documentations.
 
 # Contact Us
 For more information or to get in touch with us, please visit our website (not available at the moment due to updating).
