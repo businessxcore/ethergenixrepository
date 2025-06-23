@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/315a368c-c543-4712-9c87-dfd022c859fe)
+![1](https://github.com/user-attachments/assets/a2be5a2f-089f-4042-968f-d6fd1d39e8cd)
 
 # Ethergenic Portfolio
 Welcome to the Ethergenic repository. This is a professional portfolio of the past n8n projects developed by Ethergenix Technologies. 
