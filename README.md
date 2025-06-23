@@ -1,16 +1,15 @@
 ![1](https://github.com/user-attachments/assets/315a368c-c543-4712-9c87-dfd022c859fe)
 
-# Ethergenix Portfolio
-Welcome to the Ethergenix repository. This is a professional portfolio of the past n8n projects developed by Ethergenix Technologies. 
+# Ethergenic Portfolio
+Welcome to the Ethergenic repository. This is a professional portfolio of the past n8n projects developed by Ethergenix Technologies. 
 If interested in any of the projects, ask the owner.<br>
 
-# Why Ethergenix?"
+# Why Ethergenic?"
 
-The name "Ethergenix" was not chosen by chance. It's a blend of three evocative concepts: "Ether", "Genic" and "Phoenix".
+The name "Ethergenic" was not chosen by chance. It's a blend of two evocative concepts: "Ether" and "Genic".
 
 **Ether**: The regions of space beyond the earth's atmosphere; the heavens. It represents boundless space, clarity, and the infinite potential of the digital and intellectual realms.<br>
-**Genic**: Signifies creation, origin, and the beginning of new possibilities, embodying the concept of generating new ideas, solutions, and innovations.<br>
-**Phoenix**: The legenday bird that rises anew from its ashes, representing adaptability and resilience.<br><br>
+**Genic**: Signifies creation, origin, and the beginning of new possibilities, embodying the concept of generating new ideas, solutions, and innovations.<br><br>
 
 # We're here to solve your problems
 
